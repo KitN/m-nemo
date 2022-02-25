@@ -1,0 +1,10 @@
+1 is the t or d sound
+2 is the n 	sound
+3 is the m	sound
+4 is the r	sound
+5 is the l	sound
+6 is the j, ch, sh sound
+7 is the k or hard g sound
+8 is the f or v	sound
+9 is the p or b	sound
+0 is the z or s sound
